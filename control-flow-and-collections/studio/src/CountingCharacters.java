@@ -9,6 +9,7 @@ public class CountingCharacters {
 
             if (input.isEmpty()) {
                 System.out.println("Error! No message detected!");
+                return;
             }
 
 
