@@ -1,5 +1,3 @@
-package org.launchcode;
-
 public class MenuItem {
     private double price;
     private String description;
